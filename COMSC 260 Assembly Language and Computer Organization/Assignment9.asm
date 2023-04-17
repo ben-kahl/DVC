@@ -1,5 +1,5 @@
 ; Assignment #: 9
-; Program Description:
+; Program Description: Encrypt and decrypt a user inputted string
 ; Author: Ben Kahl: 2051026
 ; Creation Date: 4/15/2023
 ; Revisions: 3
