@@ -1,5 +1,5 @@
 ; Assignment #: Lab Exercise 7
-; Program Description: Take 2 hexadecimal integer and perform and display boolean operations
+; Program Description: Take 2 hexadecimal integers and perform and display boolean operations
 ; Author: Ben Kahl: 2051026
 ; Creation Date: 3/23/2023
 ; Revisions: 1
