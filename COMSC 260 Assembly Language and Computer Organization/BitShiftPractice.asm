@@ -1,5 +1,5 @@
 ; Assignment #: Lab Exercise 9
-; Program Description:
+; Program Description: Practice using bit shifting operations
 ; Author: Ben Kahl: 2051026
 ; Creation Date: 4/14/2023
 ; Revisions: 2
