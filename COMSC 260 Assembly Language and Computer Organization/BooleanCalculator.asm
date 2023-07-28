@@ -1,5 +1,5 @@
 ; Assignment #: 8
-; Program Description:
+; Program Description: Boolean calculator demonstrating AND, OR, NOT, and XOR operations
 ; Author: Ben Kahl: 2051026
 ; Creation Date: 4/8/2023
 ; Revisions: 
